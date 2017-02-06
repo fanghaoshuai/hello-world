@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+Just one repository
 this is fang test
 new add a line
 
